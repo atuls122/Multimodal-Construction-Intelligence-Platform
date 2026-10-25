@@ -1,0 +1,15 @@
+item,category,unit,qty_per_sqft,rate_inr
+Cement (OPC 53),Structure,bag (50 kg),0.40,400
+TMT Steel,Structure,kg,4.00,65
+River/M-Sand,Structure,cft,1.20,55
+Aggregate (20 mm),Structure,cft,0.90,45
+Bricks / Blocks,Masonry,piece,8.00,9
+Plaster & Putty Materials,Finishing,sqft,1.00,35
+Flooring Tiles,Finishing,sqft,0.90,90
+Paint (interior + exterior),Finishing,litre,0.06,350
+Electrical Fittings & Wiring,Services,sqft,1.00,120
+Plumbing & Sanitary,Services,sqft,1.00,110
+Doors & Windows,Fixtures,sqft,0.15,900
+Mason Labour,Labour,man-day,0.18,800
+Helper Labour,Labour,man-day,0.25,500
+Carpenter / Bar-bender / Electrician,Labour,man-day,0.10,900
